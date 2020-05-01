@@ -12,6 +12,7 @@ public class Home {
 	public static void title()
 	{
 		System.out.println("The Title is orange HRM");
+		System.out.println("Hellooo");
 	}
 
 }
